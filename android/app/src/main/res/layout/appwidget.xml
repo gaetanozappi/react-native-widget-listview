@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/lib/com.androidwidgetpoc"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00000000" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hero"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:background="@drawable/rounded_corner"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="21sp" />
+
+        <ListView
+            android:id="@+id/listViewWidget"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:id="@+id/charms_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" />
+
+        <TextView
+            android:id="@+id/empty_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#FCFCFC"
+            android:gravity="center"
+            android:background="@drawable/rounded_corner_content"
+            android:text="Nessun elemento." />
+
+
+</LinearLayout>
