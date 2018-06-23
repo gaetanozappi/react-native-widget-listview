@@ -15,6 +15,7 @@ Copy the following file:
 In the main path of the project.
 
 Import the file you just copied into index.js and index.android.js.
+
 Write in the files mentioned above, the following code:
 ```javascript
 AppRegistry.registerHeadlessTask ('WidgetTask', () => WidgetTask);
@@ -48,10 +49,12 @@ Add to the manifest:
 
 Copy the files that are in the following locations:
 
+```diff
 android\app\src\main\java\com\androidwidgetpoc\
 android\app\src\main\res\xml\
 android\app\src\main\res\layout\
 android\app\src\main\res\drawable\
+```
 
 
 ## License
