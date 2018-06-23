@@ -50,14 +50,13 @@ Add to the manifest:
 ```
 
 Copy the files that are in the following locations:
-
-[androidwidgetpoc](\android\app\src\main\java\com\androidwidgetpoc\)
+```diff
+android\app\src\main\java\com\androidwidgetpoc\
 android\app\src\main\java\com\androidwidgetpoc\
 android\app\src\main\res\xml\
 android\app\src\main\res\layout\
 android\app\src\main\res\drawable\
-
-
+```
 
 ## License
 The MIT License
