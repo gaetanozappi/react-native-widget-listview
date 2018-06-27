@@ -1,7 +1,7 @@
 # React Native: Widget
 
-[![github home](https://img.shields.io/badge/gaetanozappi-react--native--widget--listview-blue.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-widget-listview)
-[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-widget-listview.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-widget-listview/issues)
+[![github home](https://img.shields.io/badge/gaetanozappi-react--native--widget--listview-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-widget-listview)
+[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-widget-listview.svg?style=flat)](https://github.com/gaetanozappi/react-native-widget-listview/issues)
 
 ![PNG](screenshot/screen.jpeg)
 
@@ -59,4 +59,4 @@ android\app\src\main\res\drawable\
 ```
 
 ## License
-The MIT License
+This library is provided under the Apache License.
