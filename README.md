@@ -1,7 +1,13 @@
 # React Native: Widget
 
+![platforms](https://img.shields.io/badge/platforms-Android-brightgreen.svg?style=flat&colorB=191A17)
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--widget--listview-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-widget-listview)
+
+
 [![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-widget-listview.svg?style=flat)](https://github.com/gaetanozappi/react-native-widget-listview/issues)
+[![github closed issues](https://img.shields.io/github/issues-closed/gaetanozappi/react-native-widget-listview.svg?style=flat&colorB=44cc11)](https://github.com/gaetanozappi/react-native-widget-listview/issues?q=is%3Aissue+is%3Aclosed)
+[![Issue Stats](https://img.shields.io/issuestats/i/github/gaetanozappi/react-native-widget-listview.svg?style=flat&colorB=44cc11)](http://github.com/gaetanozappi/react-native-widget-listview/issues)
+[![github license](https://img.shields.io/github/license/gaetanozappi/react-native-widget-listview.svg)]()
 
 ![PNG](screenshot/screen.jpeg)
 
