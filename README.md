@@ -14,6 +14,11 @@
 -   [Usage](#usage)
 -   [License](#license)
 
+## 📖 Getting started
+
+`$ npm install react-native-background-timer --save`
+
+`$ react-native link react-native-background-timer`
 
 ## Usage
 
@@ -26,7 +31,7 @@ Import the file you just copied into index.js and index.android.js.
 
 Write in the files mentioned above, the following code:
 ```javascript
-AppRegistry.registerHeadlessTask ('WidgetTask', () => WidgetTask);
+AppRegistry.registerHeadlessTask('WidgetTask', () => WidgetTask);
 ```
 
 Add to the manifest:
