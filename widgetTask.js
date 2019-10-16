@@ -11,10 +11,10 @@ export default async function widgetTask () {
     }).catch((error) => {
       console.error(error);
     });
-  }, 0)
+  }, 0);
 }
 
 export function synchronizeWidget (a) {
   ToastAndroid.show(`Initializing ...`, ToastAndroid.SHORT);
-  BackgroundTaskBridge.initializeWidgetBridge(a)
+  BackgroundTaskBridge.initializeWidgetBridge(a);
 }
