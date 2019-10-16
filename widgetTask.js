@@ -15,6 +15,6 @@ export default async function widgetTask () {
 }
 
 export function synchronizeWidget (a) {
-  ToastAndroid.show(`Initializing ...`, ToastAndroid.SHORT);
+  ToastAndroid.show(`Initializing...`, ToastAndroid.SHORT);
   BackgroundTaskBridge.initializeWidgetBridge(a);
 }
